@@ -1,4 +1,4 @@
-# Hi, I'm Krishmon Karki 👋
+# Hi, I'm [Krishmon Karki](https://krishmon.com.np/) 👋
 
 **BCA student | Learning Python and Django**
 
@@ -17,9 +17,3 @@ I enjoy learning by building small projects and improving them step by step.
 ## Projects
 - **[Baiku](https://baiku.kesug.com/ )** — A riding-gear e-commerce project with eSewa integration.
 - **[Personal-API](https://personal-api-phi.vercel.app/ )** — A Personal API that track my daily routines.
-
-## Contact
-[Email](mailto:kissmoon17@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/krishmon-karki-53a2ba432/ ) ·
-[Portfolio](https://krishmon.com.np/ ) ·
-[Instagram](https://www.instagram.com/kiss_moon7/ )
