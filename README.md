@@ -1,4 +1,4 @@
-# Hi, I'm [Krishmon](https://krishmon.com.np/) 👋
+# Hi, I'm [Krishmon](https://krishmon.com.np/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **BCA student | Learning Python and Django**
 
