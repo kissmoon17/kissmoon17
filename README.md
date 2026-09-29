@@ -17,6 +17,7 @@ I enjoy learning by building small projects and improving them step by step.
 ## Projects
 - **[HamroGPT](https://krishmon.com.np/ )** — A Python chat assistant for greetings, simple questions, arithmetic, and BMI.
 - **[Baiku](https://baiku.kesug.com/ )** — A riding-gear e-commerce project with eSewa integration.
+- **[Personal-API](https://personal-api-phi.vercel.app/ )** — A Personal API that track my daily routines.
 
 ## Contact
 [Email](mailto:kissmoon17@gmail.com) ·
