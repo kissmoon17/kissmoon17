@@ -1,38 +1,25 @@
-## Hi there 👋
+# Hi, I'm Krishmon Karki 👋
 
-I'm Krishmon Karki
+**BCA student | Learning Python and Django**
 
-I'm a BCA student learning to build useful things with Python and web technologies. I enjoy learning by making small projects and improving them step by step.
+I enjoy learning by building small projects and improving them step by step.
 
-What I'm working on
-•
-Strengthening my Python and Django skills
-•
-Building small web and software projects
-•
-Improving my programming fundamentals and writing clearer code
+## Currently focused on
+- Strengthening my Python and Django skills
+- Building useful web and software projects
+- Improving my programming fundamentals
 
-Tools and technologies
-•
-Languages: Python, JavaScript
-•
-Web: Django, HTML, CSS
-•
-Databases: SQLite, SQL Server
+## Tools and technologies
+- **Languages:** Python, JavaScript
+- **Web:** Django, HTML, CSS
+- **Databases:** SQLite, SQL Server
 
-A few projects
-•
-HamroGPT — A Python chat assistant that handles greetings, simple questions, arithmetic, and BMI.
-•
-Baiku — A riding-gear e-commerce project built for a fifth-semester project, with eSewa integration.
+## Projects
+- **[HamroGPT](https://krishmon.com.np/ )** — A Python chat assistant for greetings, simple questions, arithmetic, and BMI.
+- **[Baiku](https://baiku.kesug.com/ )** — A riding-gear e-commerce project with eSewa integration.
 
-Get in touch
-•
-Email: kissmoon17@gmail.com
-•
-LinkedIn: Krishmon Karki
-•
-Portfolio: krishmon.com.np
-•
-Instagram: @kiss_moon7
-
+## Contact
+[Email](mailto:kissmoon17@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/krishmon-karki-53a2ba432/ ) ·
+[Portfolio](https://krishmon.com.np/ ) ·
+[Instagram](https://www.instagram.com/kiss_moon7/ )
