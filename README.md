@@ -1,4 +1,4 @@
-# Hi, I'm [Krishmon Karki](https://krishmon.com.np/) 👋
+# Hi, I'm [Krishmon][Karki](https://krishmon.com.np/) 👋
 
 **BCA student | Learning Python and Django**
 
