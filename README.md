@@ -15,5 +15,5 @@ I enjoy learning by building small projects and improving them step by step.
 - **Databases:** SQLite, SQL Server
 
 ## Projects
-- **[Baiku](https://baiku.kesug.com/ )** — A riding-gear e-commerce project with eSewa integration
-- **[Personal-API](https://personal-api-production-aaef.up.railway.app/ )** — A Personal API that tracks my daily routines
+- **[Baiku](https://baiku.kesug.com/ )** — A riding-gear e-commerce project with eSewa integration.
+- **[Personal-API](https://personal-api-production-aaef.up.railway.app/ )** — A Personal API that tracks my daily routines.
