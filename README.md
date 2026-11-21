@@ -2,7 +2,7 @@
 
 **BCA student | Learning Python and Django**
 
-I enjoy learning by building small projects and improving them step by step
+I enjoy learning by building small projects and improving them step by step.
 
 ## Currently focused on
 - Strengthening my Python and Django skills
